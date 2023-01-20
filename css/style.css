@@ -1,0 +1,22 @@
+.benner-img-1{
+    background-image: url(../images/banner.png);
+    height: 100vh;
+}
+.benner-img-2{
+    background-image: url(../images/carousel/4.jpg);
+    height: 100vh;
+}
+.benner-img-3{
+    background-image: url(../images/carousel/5.jpg);
+    height: 100vh;
+}
+.btn{
+    background-color: aliceblue;
+}
+.btn-2{
+    
+color: #3F87F5;
+    background: #F496D1;
+    mix-blend-mode: normal;
+    border-radius: 24px;
+}
